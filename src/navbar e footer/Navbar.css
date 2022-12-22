@@ -1,0 +1,36 @@
+a {
+    text-decoration: none !important;
+    transition: 0.4s !important;
+}
+.active{
+color: #B6CBDE !important;
+}
+nav{
+   background-color: #163E61 !important;
+   box-shadow: 0 0 0.8125rem 0 rgb(0 0 0 / 75%);
+   padding-top: .1em !important;
+   padding-bottom: .1em !important;
+}
+li.nav-item a:hover{
+    color: #81C0F7 !important;
+}
+button.btn:hover{
+background-color: #4D565E !important;
+transition: 0.4s !important;
+}
+.logo-custom{
+    width: 30px;
+    margin-left: .5em;
+}
+.tech-bits{
+    color: #B6CBDE !important;
+}
+.botao-cart{
+    background-color:#81C0F7;
+    width: 1em;
+    height: 1em;
+    margin-left: -0.5em;
+    border-radius: 50%;
+    border: none;
+    color:#163E61;
+}

@@ -1,0 +1,59 @@
+h4{
+    padding-top: 0.5em;
+}
+
+ul{
+    list-style: none;
+}
+/* centralizar o conteúdo do footer*/
+footer{
+    text-align: center;
+}
+.container-fluid a{
+    color: rgba(0, 0, 0, 0.5);
+}
+footer .container-fluid{
+  background-color: #8999A7
+}
+
+/*hover no ícone das redes sociais*/
+.icon-custom:hover{
+    color: rgba(0, 0, 0, 0.7)
+}
+/*customização do input newsletter*/
+.subscribe-input{
+    border: 2px solid #81C0F7;
+    border-radius: 5px;
+    margin-left: .2em;
+}
+/*customização do botão newsletter*/
+.subscribe-btn{
+    border: 2px solid #81C0F7 !important;
+    border-radius: 5px;
+    background-color: #163E61;
+    color: white;
+    transition: 0.4s;
+}
+.subscribe-btn:hover{
+    background-color: white;
+    color: #163E61 !important;
+}
+/*Hover da marca dágua*/
+.row p a:hover {
+    color: #163E61;
+}
+/*hover dos botões*/
+.botao-rodape:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.botao-rodape a:hover{
+    color: #81C0F7; 
+}
+.botao-rodape{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    transition: 0.4s;
+}
+.icone-pagamento{
+    width: 300px;
+}

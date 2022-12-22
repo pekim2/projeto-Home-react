@@ -1,0 +1,15 @@
+.fundo-card{
+    background-color: #163E61 !important;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0.8125rem 0 rgba(0 0 0 / 75%);
+    border: none !important;
+}
+.botao-produto{
+    background-color: white !important;
+    color: #163E61 !important;
+}
+.botao-produto:hover{
+    background-color: rgb(199, 199, 199) !important;
+    color:#c7c7c7 !important;
+
+}
